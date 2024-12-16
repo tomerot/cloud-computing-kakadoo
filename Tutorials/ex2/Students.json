@@ -1,0 +1,81 @@
+{
+    "students": [
+        {
+            "name": "Oran Efroni",
+            "email": "Oran.Efroni@e.braude.ac.il",
+            "courses": [
+                "web(61776)",
+                "A.I intro(61775)",
+                "Cloud computing intro(61773)",
+                "Theory of Compilation(61763)",
+                "Data mining and Machine learning(61761)",
+                "Physics for software engineering(61181)"
+            ],
+            "link": "https://media1.tenor.com/m/7JLPsRUpDEYAAAAd/the-idol-leia.gif"
+        },
+        {
+            "name": "Ofer Elzara",
+            "email": "Ofer.Elzara@e.braude.ac.il",
+            "courses": [
+                "web(61776)",
+                "A.I intro(61775)",
+                "Cloud computing intro(61773)",
+                "Theory of Compilation(61763)",
+                "Data mining and Machine learning(61761)",
+                "Physics for software engineering(61181)"
+            ],
+            "link": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHljd2p2OWRwZmdxY2RpbHdpYjNlZnhuOHR6NGcwMW5qaG9zNXNpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uVzLaMXnFkoAbNnAOG/giphy.webp",
+            "Favorite Movie": "N/A"
+        },
+        {
+            "name": "Tomer Rotman",
+            "email": "Tomer.Rotman@e.braude.ac.il",
+            "courses": [
+                "web(61776)",
+                "A.I intro(61775)",
+                "Cloud computing intro(61773)",
+                "Theory of Compilation(61763)",
+                "Data mining and Machine learning(61761)"
+            ],
+            "link": "https://y.yarn.co/dc934c7a-2555-4b2b-bb2d-976962b8530a_text.gif"
+        },
+        {
+            "name": "Shlomi Zrihan",
+            "email": "Shlomi.zrihan@e.braude.ac.il",
+            "courses": [
+                "web(61776)",
+                "A.I intro(61775)",
+                "Cloud computing intro(61773)",
+                "Theory of Compilation(61763)",
+                "Data mining and Machine learning(61761)",
+                "Physics for software engineering(61181)"
+            ],
+            "link": "https://media.tenor.com/61pAQHxrdMoAAAAM/waste-of-time-conan.gif"
+        },
+        {
+            "name": "Alex Gruman",
+            "email": "Alex.Gruman@e.braude.ac.il",
+            "courses": [
+                "web(61776)",
+                "A.I intro(61775)",
+                "Cloud computing intro(61773)",
+                "Theory of Compilation(61763)",
+                "Data mining and Machine learning(61761)",
+                "Physics for software engineering(61181)"
+            ],
+            "link": "https://media.tenor.com/JH97E7iYRC0AAAAM/%D7%91%D7%A8%D7%9B%D7%94-blow-kiss.gif"
+        },
+        {
+            "name": "Gad Azriel",
+            "email": "Gad.Azriel@e.braude.ac.il",
+            "courses": [
+                "web(61776)",
+                "A.I intro(61775)",
+                "Cloud computing intro(61773)",
+                "Theory of Compilation(61763)",
+                "Data mining and Machine learning(61761)"
+            ],
+            "link": "https://media.tenor.com/bdoWDOA8Z1kAAAAM/ali-g-sasha-baron-cohen.gif"
+        }
+    ]
+}
