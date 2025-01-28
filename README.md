@@ -67,15 +67,17 @@ Here are some screenshots of the application:
 ![image](https://github.com/user-attachments/assets/9be50de5-45dd-4568-a326-071f8bed61cf)
 
 3. **Statistics Dashboard**
+   
 Most Common Documents
 ![image](https://github.com/user-attachments/assets/94aa5e57-9ac2-43c5-8730-6ceda1298c94)
+
 Most Common Words
 ![image](https://github.com/user-attachments/assets/39042a0e-543a-481e-a385-8ba7d7cf77f7)
 
-4. **AWS Chatbot**
+5. **AWS Chatbot**
 ![image](https://github.com/user-attachments/assets/b5235a48-e60b-4b22-9c59-93c7fb7175db)
 
-5. **Admin Index Management**
+6. **Admin Index Management**
 ![image](https://github.com/user-attachments/assets/fdc2eb1c-74c3-4a18-96b1-cef2d6d8605c)
 
 ## Project Outcomes
