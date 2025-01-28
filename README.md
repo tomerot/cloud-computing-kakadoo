@@ -32,8 +32,8 @@ Start the Engine:
 
 Execute the cells to initialize microservices and set up the environment.
 
-### Core Features
-## Multi-Module System:
+## Core Features
+**Multi-Module System:**
 
 **Microservices** for crawling, indexing, querying, and administration.
 Efficient role-based architecture for scalability.
@@ -60,18 +60,25 @@ Control term-specific URLs.
 ### Screenshots
 Here are some screenshots of the application:
 
-Main Dashboard
+1. **Main Dashboard**
+![image](https://github.com/user-attachments/assets/9a087328-863b-4ef4-88cc-712427090216)
 
-Search Results
+2. **Search Results**
+![image](https://github.com/user-attachments/assets/9be50de5-45dd-4568-a326-071f8bed61cf)
 
-Statistics Dashboard
+3. **Statistics Dashboard**
+Most Common Documents
+![image](https://github.com/user-attachments/assets/94aa5e57-9ac2-43c5-8730-6ceda1298c94)
+Most Common Words
+![image](https://github.com/user-attachments/assets/39042a0e-543a-481e-a385-8ba7d7cf77f7)
 
-AWS Chatbot
+4. **AWS Chatbot**
+![image](https://github.com/user-attachments/assets/b5235a48-e60b-4b22-9c59-93c7fb7175db)
+
+5. **Admin Index Management**
+![image](https://github.com/user-attachments/assets/fdc2eb1c-74c3-4a18-96b1-cef2d6d8605c)
 
 ## Project Outcomes
 Built an efficient AWS search engine with query processing and ranked results.
 Successfully integrated microservices for modular development.
 Optimized user experience with a responsive and interactive GUI.
-Conducted peer reviews and achieved an SUS score of 85.4, indicating high usability.
-Acknowledgments
-This project was developed by Team Kakadoo as part of a cloud computing course. Special thanks to the instructors and reviewers for their feedback and support.
